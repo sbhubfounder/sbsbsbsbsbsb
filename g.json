@@ -1,9 +1,10 @@
 [
   {
     "name": "Baldi",
-    "desc": "Run from Baldi and survive school.",
+    "desc": "Spooky school game",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/baldi.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/thumbs/baldi.png",
-    "tag": "HORROR"
+    "tag": "HOT",
+    "download": "https://github.com/sbhubfounder/sbsbsbsbsbsb/archive/refs/heads/main.zip"
   }
 ]
