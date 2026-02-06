@@ -1,10 +1,17 @@
 [
   {
-    "name": "Baldi",
-    "desc": "Spooky school game",
+    "name": "Baldi's Basics",
+    "desc": "Spooky school horror game",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/baldi.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/thumbs/baldi.png",
     "tag": "HOT",
     "download": "https://github.com/sbhubfounder/sbsbsbsbsbsb/archive/refs/heads/main.zip"
+  },
+  {
+    "name": "Example Game 2",
+    "desc": "A fun test game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/games/example/index.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/thumbs/example.png",
+    "tag": "NEW"
   }
 ]
