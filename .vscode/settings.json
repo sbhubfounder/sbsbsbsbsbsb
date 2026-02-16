@@ -1,0 +1,13 @@
+{
+  "js/ts.implicitProjectConfig.checkJs": false,
+  "typescript.disableAutomaticTypeAcquisition": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "javascript.implicitProjectConfig.checkJs": false,
+  "files.associations": {
+    "*.html": "html"
+  }
+}
