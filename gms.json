@@ -14,5 +14,13 @@
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/38.png",
     "tag": "HORROR",
     "download": "https://github.com/sbhubfounder/sbsbsbsbsbsb/archive/refs/heads/main.zip"
+  },
+  {
+    "name": "Basket Bros",
+    "desc": "sports game fun",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/basketbros.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
+    "tag": "SPORTS",
+    "download": "https://github.com/sbhubfounder/sbsbsbsbsbsb/archive/refs/heads/main.zip"
   }
 ]
