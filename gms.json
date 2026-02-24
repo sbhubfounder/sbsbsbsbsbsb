@@ -1,52 +1,51 @@
 [
-  {
-    "name": "Baldi's Basics",
-    "desc": "Spooky school horror game",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/baldi.html",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/65.png",
-    "tag": "HORROR	",
-  },
-  {
-    "name": "Five Nights at Freddy's",
-    "desc": "Survive 5 nights in Freddy's horror game",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/fnaf.html",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/38.png",
-    "tag": "HORROR",
-  },
-  {
-    "name": "Basket Bros",
-    "desc": "sports game fun",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/basketbros.html",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
-    "tag": "SPORTS",
-  },
-  {
-    "name": "Snowrider3d",
-    "desc": "coming soon",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/snowrider3d.html",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
-    "tag": "FUN",
-  },
-{
-    "name": "Bitlife",
-    "desc": "coming soon",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/bitlife.htmll",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
-    "tag": "SIMULATER",
-  },
-{
-    "name": "Drive Mad",
-    "desc": "coming soon",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/drivemad.htmll",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
-    "tag": "SIMULATER",
-  },
-{
-    "name": "Monkey Mart",
-    "desc": "coming soon",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/drivemad.htmll",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
-    "tag": "SIMULATER",
-  }
+  {
+    "name": "Baldi's Basics",
+    "desc": "Spooky school horror game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/baldi.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/65.png",
+    "tag": "HORROR"
+  },
+  {
+    "name": "Five Nights at Freddy's",
+    "desc": "Survive 5 nights in Freddy's horror game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/fnaf.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/38.png",
+    "tag": "HORROR"
+  },
+  {
+    "name": "Basket Bros",
+    "desc": "sports game fun",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/basketbros.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
+    "tag": "SPORTS"
+  },
+  {
+    "name": "Snowrider3d",
+    "desc": "coming soon",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/snowrider3d.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
+    "tag": "FUN"
+  },
+  {
+    "name": "Bitlife",
+    "desc": "coming soon",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/bitlife.htmll",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
+    "tag": "SIMULATER"
+  },
+  {
+    "name": "Drive Mad",
+    "desc": "coming soon",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/drivemad.htmll",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
+    "tag": "SIMULATER"
+  },
+  {
+    "name": "Monkey Mart",
+    "desc": "coming soon",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/drivemad.htmll",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/285.png",
+    "tag": "SIMULATER"
+  }
 ]
-
