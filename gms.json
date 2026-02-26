@@ -23,7 +23,7 @@
   },
   {
     "name": "Snowrider3d",
-    "desc": "enless snow runner",
+    "desc": "endless snow runner",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/snowrider3d.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/119.png",
     "tag": "FUN"
@@ -37,7 +37,7 @@
   },
   {
     "name": "Drive Mad",
-    "desc": "driving puzzels",
+    "desc": "driving puzzles",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/drivemad.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/drivemad-min.png",
     "tag": "PUZZLE"
@@ -50,7 +50,7 @@
     "tag": "SIMULATOR"
   },
   {
-    "name": "Geomotry Dash Lite",
+    "name": "Geometry Dash Lite",
     "desc": "tycoon type game",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/8.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/27.png",
@@ -96,6 +96,6 @@
     "desc": "tycoon type game",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/14.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/1344.png",
-    "tag": "HORROR"
+    "tag": "FUN"
   }
 ]
