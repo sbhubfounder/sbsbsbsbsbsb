@@ -99,13 +99,6 @@
     "tag": "FUN"
   },
   {
-   "name": "sb search",
-   "desc": "search engine",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/sbsearch.html",
-    "thumb": "https://pngimg.com/uploads/question_mark/question_mark_PNG40.png",
-    "tag": "FUN"
-  },
-  {
         "name": "Basketrandom",
         "desc": "2 player basketball game",
         "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/basketrandom.html",
