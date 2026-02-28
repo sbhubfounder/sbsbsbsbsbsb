@@ -1,4 +1,3 @@
-
 [
   {
     "name": "Baldi's Basics",
@@ -63,7 +62,7 @@
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/10.png",
     "tag": "ADVENTURE"
   },
-    {
+  {
     "name": "Fnaf 2",
     "desc": "fnaf 2",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/10.html",
@@ -99,26 +98,25 @@
     "tag": "FUN"
   },
   {
-        "name": "Basketrandom",
-        "desc": "2 player basketball game",
-        "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/basketrandom.html",
-        "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/basketrandom.png.png",
-        "tag": "FUN"
+    "name": "Basketrandom",
+    "desc": "2 player basketball game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/basketrandom.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/basketrandom.png.png",
+    "tag": "FUN"
   },
   {
-      "name": "1v1 lol",
-        "desc": "1v1 type game",
-        "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/cl1v1lol.html",
-        "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/1v1lol.png",
-        "tag": "FUN"
-
+    "name": "1v1 lol",
+    "desc": "1v1 type game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/cl1v1lol.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/1v1lol.png",
+    "tag": "FUN"
   },
   {
     "name": "10 minutes till dawn",
-        "desc": "survival game",
-        "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/cl10minutestildawn.html",
-        "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/10min.png",
-        "tag": "FUN" 
+    "desc": "survival game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/cl10minutestildawn.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/10min.png",
+    "tag": "FUN"
   },
   {
     "name": "Stick Man Combat 2D",
