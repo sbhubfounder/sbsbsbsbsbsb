@@ -51,7 +51,7 @@
   },
   {
     "name": "Geometry Dash Lite",
-    "desc": "tycoon type game",
+    "desc": "Geometry Dash Lite Remake (MAY NOT WORK)",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/8.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/27.png",
     "tag": "SIMULATOR"
@@ -65,28 +65,28 @@
   },
     {
     "name": "Fnaf 2",
-    "desc": "tycoon type game",
+    "desc": "fnaf 2",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/10.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/39.png",
     "tag": "HORROR"
   },
   {
     "name": "Fnaf 3",
-    "desc": "tycoon type game",
+    "desc": "fnaf 3",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/11.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/40.png",
     "tag": "HORROR"
   },
   {
     "name": "Fnaf 4",
-    "desc": "tycoon type game",
+    "desc": "fnaf 4",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/12.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/41.png",
     "tag": "HORROR"
   },
   {
     "name": "Granny",
-    "desc": "tycoon type game",
+    "desc": "survive granny",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/13.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/90.png",
     "tag": "HORROR"
@@ -118,8 +118,14 @@
         "desc": "survival game",
         "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/cl10minutestildawn.html",
         "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/10min.png",
-        "tag": "FUN"
-  }
+        "tag": "FUN" 
+  },
+  {
+     "name": "Stick Man Combat 2D",
+        "desc": "battle game",
+        "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clstickmankombat2d.html",
+        "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/stickman.png",
+        "tag": "FUN" 
 ]
 
   
