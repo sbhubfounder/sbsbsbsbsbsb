@@ -145,7 +145,13 @@
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/FNAE.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/epstien.png.png",
     "tag": "Survival"
-  }
+  },
+  {
+     "name": "Geometry Dash Vibes",
+    "desc": "Geometry Dash Remake",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clgeometryvibes.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/geovibes.png.png",
+    "tag": "FUN"
 ]
   
 
