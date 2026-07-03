@@ -147,19 +147,19 @@
     "tag": "Survival"
   },
   {
-   "name": "Geometry Dash Vibes",
-   "desc": "Geometry Dash Remake",
-   "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clgeometryvibes.html",
+    "name": "Geometry Dash Vibes",
+    "desc": "Geometry Dash Remake",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clgeometryvibes.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/geovibes.png.png",
     "tag": "FUN"
-    {,
-    {
-   "name": "Retro Bowl",
-   "desc": "Football game",
-   "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clretrobowl.html",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/retrobowl.png.png"
-    "tag": "FUN"
+  },
   {
+    "name": "Retro Bowl",
+    "desc": "Football game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clretrobowl.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/retrobowl.png.png",
+    "tag": "FUN"
+  }
 ]
   
 
