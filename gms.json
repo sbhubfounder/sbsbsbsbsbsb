@@ -159,17 +159,21 @@
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clretrobowl.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/retrobowl.png.png",
     "tag": "FUN"
-  },
   {
     "name": "Subway Surfers",
     "desc": "Endless Runner Game",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clsubwaysurfersbeijing.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/subwaysurferspic.png",
     "tag": "FUN"
+  },
+  {
+    "name": "Car King Arena",
+    "desc": "Car game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clcarkingarena.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/Screenshot 2026-07-09 145313.png",
+    "tag": "FUN"
   }
-  
 ]
-  
 
   
 
