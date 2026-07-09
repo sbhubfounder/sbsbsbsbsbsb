@@ -126,7 +126,7 @@
     "tag": "FUN"
   },
   {
-     "name": "Paper.Io",
+    "name": "Paper.Io",
     "desc": "2D game",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clpaperio.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/paperio.png",
@@ -159,6 +159,7 @@
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clretrobowl.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/retrobowl.png.png",
     "tag": "FUN"
+  },
   {
     "name": "Subway Surfers",
     "desc": "Endless Runner Game",
