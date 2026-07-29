@@ -182,18 +182,11 @@
     "tag": "FUN"
   },
   {
-    "name": "Cookie Clicker",
-    "desc": "Clicker game",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/_______.html",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/Screenshot 2026-07-28230050.png",
-    "tag": "clicker"
-  },
-  {
-    "name": "____",
+    "name": "Fallout",
     "desc": "none",
-    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/_______.html",
-    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/Screenshot 2026-07-28230050.png",
-    "tag": "clicker"
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clfallout.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/fallout.png",
+    "tag": "Survival"
   },
   {
     "name": "Pokemon Emerald",
@@ -221,6 +214,13 @@
     "desc": "none",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/cldoomdos.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/doomgame.png",
+    "tag": "game"
+  },
+  {
+     "name": "Slope",
+    "desc": "none",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clslopeplus.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/slopelol.png",
     "tag": "game"
   }
 ]
