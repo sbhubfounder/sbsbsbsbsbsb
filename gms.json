@@ -158,7 +158,7 @@
     "desc": "Football game",
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clretrobowl.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/retrobowl.png.png",
-    "tag": "FUN"
+    "tag": "Simulation"
   },
   {
     "name": "Subway Surfers",
@@ -173,5 +173,54 @@
     "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clcarkingarena.html",
     "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/Screenshot 2026-07-09 145313.png",
     "tag": "FUN"
+  },
+  {
+    "name": "99 balls",
+    "desc": "BALLS",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/cl99balls(1).html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/99b.png",
+    "tag": "FUN"
+  },
+  {
+    "name": "Cookie Clicker",
+    "desc": "Clicker game",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/_______.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/Screenshot 2026-07-28230050.png",
+    "tag": "clicker"
+  },
+  {
+    "name": "____",
+    "desc": "none",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/_______.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/Screenshot 2026-07-28230050.png",
+    "tag": "clicker"
+  },
+  {
+    "name": "Pokemon Emerald",
+    "desc": "none",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clpokemonemerald.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/emeraldtypeshit.png",
+    "tag": "game"
+  },
+  {
+    "name": "Crazy Cattle",
+    "desc": "none",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clcrazycattle3d.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/crazycattleshit.png",
+    "tag": "game"
+  },
+  {
+    "name": "Friday Night Funkin",
+    "desc": "none",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/clfridaynightfunkin.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/fridaynightfucking.png",
+    "tag": "game"
+  },
+  {
+    "name": "Doom",
+    "desc": "none",
+    "url": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/cldoomdos.html",
+    "thumb": "https://cdn.jsdelivr.net/gh/sbhubfounder/sbsbsbsbsbsb@main/icons/doomgame.png",
+    "tag": "game"
   }
 ]
