@@ -3747,19 +3747,19 @@ const PROXY_PREFIX = "/uv/service/";
  * Any other domain (sbx.life, mirrors) loads proxy pages through this origin.
  * Override: localStorage.setItem("sbxProxyOrigin", "https://your-proxy.onrender.com")
  */
-const DEFAULT_PROXY_ORIGIN = "https://sbhubproxtest.onrender.com";
+const DEFAULT_PROXY_ORIGIN = "https://sbhub-uv-2.onrender.com";
 /* Extra UV hosts to try when school filters block one (first working wins). */
 const PROXY_ORIGINS = [
-  "https://sbhubproxtest.onrender.com",
+  "https://sbhub-uv-2.onrender.com",
 ];
 
 // One-time reset so an old saved proxy address from earlier builds can't override the default.
 try {
-  if (localStorage.getItem("sbxProxyOriginV") !== "4") {
+  if (localStorage.getItem("sbxProxyOriginV") !== "5") {
     localStorage.removeItem("sbxProxyOrigin");
     localStorage.removeItem("sbxProxyMode");
     localStorage.removeItem("sbxAiOrigin");
-    localStorage.setItem("sbxProxyOriginV", "4");
+    localStorage.setItem("sbxProxyOriginV", "5");
   }
 } catch (e) { /* */ }
 let resolvedProxyMode = null; // "local" | "remote"
@@ -4346,7 +4346,7 @@ function buildWebView(tab, url) {
     try {
       if (typeof buildProxyBootUrl === "function") return buildProxyBootUrl(url);
     } catch (e) {}
-    return "https://sbhubproxtest.onrender.com/proxy-boot.html?url=" + encodeURIComponent(url) + "&_=" + Date.now();
+    return "https://sbhub-uv-2.onrender.com/proxy-boot.html?url=" + encodeURIComponent(url) + "&_=" + Date.now();
   };
   const start = async () => {
     settled = false;
@@ -6546,7 +6546,7 @@ function mzProxiedSrc(targetUrl) {
   try {
     if (typeof buildProxyBootUrl === "function") return buildProxyBootUrl(targetUrl);
   } catch (e) {}
-  return "https://sbhubproxtest.onrender.com/proxy-boot.html?url=" + encodeURIComponent(targetUrl) + "&_=" + Date.now();
+  return "https://sbhub-uv-2.onrender.com/proxy-boot.html?url=" + encodeURIComponent(targetUrl) + "&_=" + Date.now();
 }
 
 /** Full track via UV — school networks only see your proxy domain, not youtube.com. */
@@ -9728,5 +9728,49 @@ try { localStorage.setItem("sbxProxyEngine", "ultraviolet"); localStorage.setIte
 document.addEventListener("DOMContentLoaded", initApp);
 
 </script>
+
+<style id="sb-hub-ai-integration">
+  #sb-hub-ai-launcher{position:fixed;right:20px;bottom:20px;z-index:2147483000;border:1px solid rgba(255,255,255,.16);border-radius:14px;background:#151a27;color:#fff;padding:12px 16px;font:600 14px/1.2 system-ui,sans-serif;box-shadow:0 8px 28px #0005;cursor:pointer}
+  #sb-hub-ai-launcher:hover{background:#20283a}
+  #sb-hub-ai-overlay{position:fixed;inset:0;z-index:2147483001;background:rgba(4,7,14,.78);backdrop-filter:blur(6px);display:none;padding:clamp(8px,2vw,24px)}
+  #sb-hub-ai-overlay[aria-hidden="false"]{display:flex;align-items:stretch;justify-content:center}
+  #sb-hub-ai-panel{position:relative;display:flex;flex-direction:column;width:min(1200px,100%);height:100%;background:#0b1020;border:1px solid rgba(255,255,255,.14);border-radius:18px;overflow:hidden;box-shadow:0 24px 90px #0009}
+  #sb-hub-ai-topbar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 16px;background:#111827;color:#f5f7fb;font:600 14px system-ui,sans-serif}
+  #sb-hub-ai-close{border:0;border-radius:9px;padding:8px 12px;background:#263044;color:#fff;cursor:pointer;font:inherit}
+  #sb-hub-ai-frame{width:100%;height:100%;flex:1;border:0;background:#0b1020}
+  @media(max-width:600px){#sb-hub-ai-launcher{right:12px;bottom:12px}#sb-hub-ai-overlay{padding:0}#sb-hub-ai-panel{border-radius:0;border:0}}
+</style>
+<button id="sb-hub-ai-launcher" type="button" aria-haspopup="dialog" aria-controls="sb-hub-ai-overlay">✦ SB HUB AI</button>
+<div id="sb-hub-ai-overlay" aria-hidden="true" role="dialog" aria-modal="true" aria-label="SB HUB AI">
+  <section id="sb-hub-ai-panel">
+    <div id="sb-hub-ai-topbar"><span>SB HUB AI</span><button id="sb-hub-ai-close" type="button">Close ✕</button></div>
+    <iframe id="sb-hub-ai-frame" title="SB HUB AI" src="about:blank" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="clipboard-read; clipboard-write"></iframe>
+  </section>
+</div>
+<script id="sb-hub-ai-integration-script">
+(function(){
+  const launcher=document.getElementById("sb-hub-ai-launcher");
+  const overlay=document.getElementById("sb-hub-ai-overlay");
+  const close=document.getElementById("sb-hub-ai-close");
+  const frame=document.getElementById("sb-hub-ai-frame");
+  const aiUrl="https://sbhub-ai.onrender.com/";
+  function openAI(){
+    if(frame.src==="about:blank") frame.src=aiUrl;
+    overlay.setAttribute("aria-hidden","false");
+    document.body.style.overflow="hidden";
+    close.focus();
+  }
+  function closeAI(){
+    overlay.setAttribute("aria-hidden","true");
+    document.body.style.overflow="";
+    launcher.focus();
+  }
+  launcher.addEventListener("click",openAI);
+  close.addEventListener("click",closeAI);
+  overlay.addEventListener("click",function(e){if(e.target===overlay)closeAI();});
+  document.addEventListener("keydown",function(e){if(e.key==="Escape"&&overlay.getAttribute("aria-hidden")==="false")closeAI();});
+})();
+</script>
+
 </body>
 </html>
